@@ -1,0 +1,229 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="https://www.nationalgeographic.com/magazine/2010/04/water-is-life/">
+        <dc:title>Fresh Water</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Kingsolver, Barbara</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>National Geographic</dc:publisher>
+		<dc:abstract>The amount of moisture on Earth has not changed. The water the dinosaurs drank millions of years ago is the same water that falls as rain today. But will there be enough for a more crowded world?</dc:abstract>
+		<dc:subject>Environment</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.nationalgeographic.com/magazine/2010/04/big-melt-tibetan-plateau/">
+        <dc:title>The Big Melt</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Larmer, Brook</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>National Geographic</dc:publisher>
+		<dc:abstract>Glaciers in the high heart of Asia feed its greatest rivers, lifelines for two billion people. Now the ice and snow are diminishing.</dc:abstract>
+		<dc:subject>Environment</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.nationalgeographic.com/magazine/2010/04/sacred-waters/">
+        <dc:title>Sacred Waters</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Newman, Cathy</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>National Geographic</dc:publisher>
+		<dc:abstract>From the droplets in a baptismal font to the scattering of ashes on a holy river, water blesses our lives.</dc:abstract>
+		<dc:subject>Environment</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.nationalgeographic.com/magazine/2010/04/our-thirsty-world/">
+        <dc:title>The Burden of Thirst</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Rosenberg, Tina</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>National Geographic</dc:publisher>
+		<dc:abstract>If the millions of women who haul water long distances had a faucet by their door, whole societies could be transformed.</dc:abstract>
+		<dc:subject>Environment</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.nationalgeographic.com/magazine/2010/04/freshwater-species/">
+        <dc:title>Silent Streams</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Chadwick, Douglas</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>National Geographic</dc:publisher>
+		<dc:abstract>Freshwater animals are vanishing faster than those on land or at sea. But captive-breeding programs hold out hope.</dc:abstract>
+		<dc:subject>Environment</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.theatlantic.com/magazine/archive/2010/04/exodus/307984/">
+        <dc:title>Exodus</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Savodnik, Peter</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>The Atlantic</dc:publisher>
+		<dc:abstract>Less traffic through the Suez Canal means less of everything else for Egyptians; including hope.</dc:abstract>
+		<dc:subject>Geography</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.theatlantic.com/magazine/archive/2010/04/wild-ride/308002/">
+        <dc:title>Wild Ride</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Stevens, Hampton</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>The Atlantic</dc:publisher>
+		<dc:abstract>The short and brutal life of a Nascar engine</dc:abstract>
+		<dc:subject>Engineering</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.theatlantic.com/magazine/archive/2010/04/outback-steakhouse/307986/">
+        <dc:title>Outback Steakhouse</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Kamenev, Marina</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>The Atlantic</dc:publisher>
+		<dc:abstract>Australia’s bush meat is tasty, healthy, and enviro-friendly. But can you get people to eat it?</dc:abstract>
+		<dc:subject>Food</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.theatlantic.com/magazine/archive/2010/04/dirigible-dreams/308003/">
+        <dc:title>Dirigible Dreams</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Wallace, Lane</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>The Atlantic</dc:publisher>
+		<dc:abstract>Is one of aviation's most enduring technological hopes about to become a reality?</dc:abstract>
+		<dc:subject>Engineering</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.theatlantic.com/magazine/archive/2010/04/e-donnybrook/307985/">
+        <dc:title>E-Donnybrook</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>McArdle, Megan</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>The Atlantic</dc:publisher>
+		<dc:abstract>No matter who wins the battle between the Kindle and the iPad, it marks the return of machines as market-makers.</dc:abstract>
+		<dc:subject>Consumer technology</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.popsci.com/science/article/2010-03/how-start-fire-just-compressed-air">
+        <dc:title>Gray Matter: How to Start a Fire With Only Compressed Air</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Gray, Theodore</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>Popular Science</dc:publisher>
+		<dc:abstract>You've probably seen contestants on Survivor trying to make fire by rubbing sticks together or concentrating sunlight with their eyeglasses. But among preindustrial fire-starting methods, it's hard to beat the portable convenience of fire pistons, used in Southeast Asia since prehistoric times.</dc:abstract>
+		<dc:subject>Chemistry</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.popsci.com/technology/article/2010-03/most-advanced-rc-car">
+        <dc:title>How It Works: The Most Advanced Gas-Powered R/C Car</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Adams, Eric</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>Popular Science</dc:publisher>
+		<dc:abstract>Gas-powered remote-control cars provide realistic racing fun. They burn a gasoline-like fuel called nitro (made of methanol, nitromethane and lubricant) with miniature internal combustion engines. Losi's Ten-T gets even more authentic by adding a starter that works like a diesel engine's. Nitro cars are usually hard to start: You have to pick them up, use a hand-held motor to spin the engine, and simultaneously work the remote's throttle. With the Ten-T you just hit "start" on the remote.</dc:abstract>
+		<dc:subject>Engineering</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.popsci.com/environment/article/2010-03/timeline-simpler-sonar">
+        <dc:title>Timeline: Sun Power Gets Easier with New Lightweight Panels</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Parsons, Sarah</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>Popular Science</dc:publisher>
+		<dc:abstract>Solar power sounds great: electricity from sunshine, for free, no carbon footprint. But solar panels often come with hefty price tags or require complex installations. Now lighter materials are making them less expensive and more convenient, whether you carry them with you or snap them onto your roof.</dc:abstract>
+		<dc:subject>Environment</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.popsci.com/science/article/2010-03/does-geothermal-power-cause-earthquakes">
+        <dc:title>Does Geothermal Power Cause Earthquakes?</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Svoboda, Elizabeth</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>Popular Science</dc:publisher>
+		<dc:abstract>On December 8, 2006, Markus Häring caused some 30 earthquakes -- the largest registering 3.4 on the Richter scale -- in Basel, Switzerland. Häring is not a supervillain. He's a geologist, and he had nothing but good intentions when he injected high-pressure water into rocks three miles below the surface, attempting to generate electricity through a process called enhanced geothermal. But he produced earthquakes instead, and when seismic analysis confirmed that the quakes were centered near the drilling site, city officials charged him with $9 million worth of damage to buildings.</dc:abstract>
+		<dc:subject>Environment</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.popsci.com/technology/article/2010-03/what-are-virtual-pcs-and-what-can-i-do-them">
+        <dc:title>What are Virtual PCs, and What Can I Do With Them?</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Pash, Adam</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>Popular Science</dc:publisher>
+		<dc:abstract>You’ve finally got your PC set up to your liking and running smoothly. So when you decide to add software later on, the last thing you want is something potentially unstable that could endanger the system. Although they’re not a replacement for antivirus applications, virtual machines can really come in handy. Essentially, they’re full-fledged operating systems that run as an application inside your actual operating system while remaining safely isolated from it.</dc:abstract>
+		<dc:subject>IT</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.smithsonianmag.com/travel/breeding-the-perfect-bull-9671075/">
+        <dc:title>Breeding the Perfect Bull</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Laskas, Jeanne M.</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>Smithsonian Magazine</dc:publisher>
+		<dc:abstract>A Texas cattleman used genetic science to breed his masterpiece – a near-perfect Red Angus bull. Then nature took its course</dc:abstract>
+		<dc:subject>Biology</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.smithsonianmag.com/travel/photographing-baltimores-working-class-9338157/">
+        <dc:title>Photographing Baltimore's Working Class</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Tucker, Abigail</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>Smithsonian Magazine</dc:publisher>
+		<dc:abstract>Baltimore's A. Aubrey Bodine cast a romantic light on the city's dockworkers in painterly photographs</dc:abstract>
+		<dc:subject>Society</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.smithsonianmag.com/science-nature/dark-energy-the-biggest-mystery-in-the-universe-9482130/">
+        <dc:title>Dark Energy: The Biggest Mystery in the Universe</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Panek, Richard</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>Smithsonian Magazine</dc:publisher>
+		<dc:abstract>At the South Pole, astronomers try to unravel a force greater than gravity that will determine the fate of the cosmos</dc:abstract>
+		<dc:subject>Astrophysics</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.smithsonianmag.com/arts-culture/a-160-year-old-photographic-mystery-8994798/">
+        <dc:title>A 160-Year-Old Photographic Mystery</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Fiegl, Amanda</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>Smithsonian Magazine</dc:publisher>
+		<dc:abstract>In 1851, Levi Hill claimed he invented color photography. Was he a genius or a fraud?</dc:abstract>
+		<dc:subject>Metascience</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://www.smithsonianmag.com/science-nature/saving-the-silky-sifaka-9586309/">
+        <dc:title>Saving the Silky Sifaka</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Hendry, Erica R.</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>Smithsonian Magazine</dc:publisher>
+		<dc:abstract>In Madagascar, an American researcher races to protect one of the world's rarest mammals, a white lemur known as the silky sifaka</dc:abstract>
+		<dc:subject>Environment</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://arstechnica.com/gadgets/news/2010/04/google-reportedly-preparing-to-intro-tv-software-next-month.ars">
+        <dc:title>Google reportedly preparing to intro TV software next month</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Cheng, Jacqui</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>Ars Technica</dc:publisher>
+		<dc:abstract>The Google I/O conference will bring many things, and one of them may involve...</dc:abstract>
+		<dc:subject>Consumer technology</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://arstechnica.com/microsoft/news/2010/04/html5-video-in-internet-explorer-9-h264-and-h264-alone.ars">
+        <dc:title>HTML5 video in Internet Explorer 9: H.264 and H.264 alone</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Bright, Peter</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>Ars Technica</dc:publisher>
+		<dc:abstract>It's already been announced that Microsoft will be supporting HTML5 video in...</dc:abstract>
+		<dc:subject>IT</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://arstechnica.com/gadgets/news/2010/04/the-once-ubiquitous-floppy-finally-being-axed-by-sony.ars">
+        <dc:title>The once ubiquitous floppy finally being axed by Sony</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Foresman, Chris</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>Ars Technica</dc:publisher>
+		<dc:abstract>Sony has announced it will stop producing 3.5" floppy disks by 2011. We were...</dc:abstract>
+		<dc:subject>IT</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://arstechnica.com/science/news/2010/04/breaking-mendels-laws-the-value-of-informative-errors.ars">
+        <dc:title>How Mendel started genetics by getting it mostly wrong</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Timmer, John</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>Ars Technica</dc:publisher>
+		<dc:abstract>A good scientific law, like the speed limit imposed by light, may solve an...</dc:abstract>
+		<dc:subject>Metascience</dc:subject>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://arstechnica.com/science/news/2010/04/dreaming-during-a-nap-may-improve-memory-processing.ars">
+        <dc:title>Better mental performance may only be a nap away</dc:title>
+        <dc:type>magazineArticle</dc:type>
+        <dc:creator>Johnston, Casey</dc:creator>
+        <dc:date>Apr 2010</dc:date>
+		<dc:publisher>Ars Technica</dc:publisher>
+		<dc:abstract>Study participants who were able to take naps long enough to dream were able...</dc:abstract>
+		<dc:subject>Biology</dc:subject>
+    </rdf:Description>
+</rdf:RDF>
